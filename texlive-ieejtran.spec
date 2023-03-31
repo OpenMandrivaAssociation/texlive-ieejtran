@@ -1,6 +1,6 @@
 Name:		texlive-ieejtran
 Version:	62957
-Release:	1
+Release:	2
 Summary:	Unofficial bibliography style file for the Institute of Electrical Engineers of Japan
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ieejtran
