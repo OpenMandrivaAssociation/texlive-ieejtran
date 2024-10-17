@@ -3,7 +3,7 @@ Version:	65641
 Release:	1
 Summary:	Unofficial bibliography style file for the Institute of Electrical Engineers of Japan
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ieejtran
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ieejtran
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ieejtran.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ieejtran.doc.r%{version}.tar.xz
